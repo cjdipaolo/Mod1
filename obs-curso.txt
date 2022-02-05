@@ -1,0 +1,14 @@
+txt
+Arquitectura de las aplicaciones web
+    Análisis de los escenarios: En Escenario 3 Fornt en lugar de Fornt End
+    Apis conectarnos por conectemos
+Arquitectura web distribuida
+    API REST
+        separarlos en pequeñas...
+    En back end: login por loguin
+    En login valida si el usuario...
+    4029180790153604 10/23 270 fponce@inti.gob.ar
+
+    Saberes y experiencias previas --> taxista tecerizando picardía
+    SCRUM --> Mc Afee
+
